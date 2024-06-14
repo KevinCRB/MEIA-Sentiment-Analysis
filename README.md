@@ -1,1 +1,1 @@
-Modelo de fine tuning usado para el proyecto final del curso MEIA (Macro Entrenamiento en Inteligencia Artificial) para el analisis de sentimientos de comentarios de TripAdvisor en español
+Fine-tuning model used for the final project of the MEIA course (Macro Training in Artificial Intelligence) for sentiment analysis of TripAdvisor comments in Spanish, classifying them according to the number of stars the comment gave, from 1 to 5.
